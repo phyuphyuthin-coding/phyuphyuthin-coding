@@ -4,7 +4,6 @@ I'm a passionate junior software engineer from Myanmar, currently 19 years old. 
 
 ## 🔧 Technologies & Tools
 
-- Java
 - Spring Boot
 - Spring Data JPA
 - Thymeleaf
