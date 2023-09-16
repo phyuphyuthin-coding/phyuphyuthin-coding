@@ -1,4 +1,4 @@
-# Hello, I'm Phyu Phyu Thin ! 👋
+# Hello, I'm Phyu Phyu Thin <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> ! 👋
 
 I'm a passionate junior software engineer from Myanmar, currently 19 years old. I love building web applications and have experience with a variety of technologies.
 
