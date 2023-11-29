@@ -15,7 +15,7 @@ I'm a passionate junior software engineer from Myanmar. I love building web appl
   
 ## 💼 Work Experience
 
-- ACE Data Systems, Junior Software Engineer, 10/20/2022 - Present
+- ACE Data Systems, Junior Software Engineer, 20-Oct-2022 - Present
 
 <!--## 🚀 Projects
 
