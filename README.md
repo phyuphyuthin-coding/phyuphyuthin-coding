@@ -43,10 +43,11 @@ Visit my [personal website/blog](link-to-website) to explore more of my projects
 - One interesting fact about yourself.
 - Your hobbies outside of programming.-->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dabria2004&show_icons=true&theme=github_dark" alt="Phyu Phyu Thin's GitHub stats"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabria2004&hide=html,css,scss&layout=compact&theme=github_dark" alt="Top Langs">
+</div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabria2004&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabria2004&hide=html,css,scss&layout=compact&theme=github_dark)
 ![Phyu Phyu Thin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabria2004&theme=github-compact)
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dabria2004&theme=algolia)
