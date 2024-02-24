@@ -47,6 +47,7 @@ Visit my [personal website/blog](link-to-website) to explore more of my projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabria2004&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabria2004&hide=html,css,scss&layout=compact&theme=github_dark)
+![Phyu Phyu Thin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabria2004&theme=github-compact)
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white-->
