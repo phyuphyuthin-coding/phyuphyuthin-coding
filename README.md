@@ -44,18 +44,18 @@ Visit my [personal website/blog](link-to-website) to explore more of my projects
 - Your hobbies outside of programming.-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dabria2004&show_icons=true&theme=github_dark" alt="Phyu Phyu Thin's GitHub stats"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabria2004&hide=html,css,scss&layout=compact&theme=github_dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=phyuphyuthin-coding&show_icons=true&theme=github_dark" alt="Phyu Phyu Thin's GitHub stats"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyuphyuthin-coding&hide=html,css,scss&layout=compact&theme=github_dark" alt="Top Langs">
 </div>
 
-![Phyu Phyu Thin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dabria2004&theme=github-compact)
+![Phyu Phyu Thin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phyuphyuthin-coding&theme=github-compact)
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dabria2004&theme=algolia)
+![](https://github-profile-trophy.vercel.app/?username=phyuphyuthin-coding&theme=algolia)
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white-->
 <!--
-**dabria2004/dabria2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phyuphyuthin-coding/phyuphyuthin-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
