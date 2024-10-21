@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a software developer currently working at ACE Data Systems in the Banking Department since October 2022. I specialize in Java, C#, and JavaScript, building solutions that aim to streamline financial processes and deliver efficient software.<br><br>I’m always exploring new challenges and opportunities to grow as a developer. Currently, I’m open to job opportunities where I can contribute my skills and continue to learn!
+👋 Hi there! I'm a software developer currently working at ACE Data Systems in the Banking Department since October 2022. I specialize in Java, C#, and React, building solutions that aim to streamline financial processes and deliver efficient software.<br><br>I’m always exploring new challenges and opportunities to grow as a developer. Currently, I’m open to job opportunities where I can contribute my skills and continue to learn!
 
 
 ## 🌐 Socials:
